@@ -1,24 +1,23 @@
-<h1 align="center">Hi there, I'm Danil
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Programmer developer from Russia 🇷🇺</h3>
+# Привет, я Данил 👋
 
-<h4 align="center"> Contact me: </h4>
-<div align="center">
-  <img height="16" width="16" src="https://cdn.simpleicons.org/telegram" /> 
-  <a href="https://t.me/dlwrk"> @dlwrk </a>
-</div>
+Junior Python Backend Developer  
+FastAPI • PostgreSQL • Docker
 
-<!--
-**d1sxrder3d/d1sxrder3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+Пишу бэкенд на Python: REST API, работа с базами данных, авторизация, деплой в Docker.  
+Интересуюсь backend-разработкой и системным мышлением, хочу развиваться в коммерческой разработке.
 
-Here are some ideas to get you started:
+## Технологии
+- Python
+- FastAPI
+- SQLAlchemy, Alembic
+- Django, DRF
+- PostgreSQL, SQLite
+- Celery
+- Redis
+- RabbitMQ
+- Docker
+- Git / GitHub
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [Мой телеграмм](https://t.me/dlwrk)
