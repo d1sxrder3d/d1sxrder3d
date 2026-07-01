@@ -19,3 +19,7 @@
 ## Мои контакты
 - **Telegram:** @sxlrd3000
 - **Email:** dan.lit612.wrk@gmail.com
+
+🇬🇧 English | 🇷🇺 Русский
+> Вы читаете русскую версию.
+> [English version](README.md)
