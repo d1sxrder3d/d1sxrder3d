@@ -20,3 +20,8 @@ I enjoy building backend systems, working with Linux, reverse engineering, and e
 ## Contact me
 - **Telegram**: @sxlrd3000
 - **Email**: dan.lit612.wrk@gmail.com
+
+
+🇬🇧 English | 🇷🇺 Русский
+> You're reading the English version.
+> [Русская версия](README.ru.md)
