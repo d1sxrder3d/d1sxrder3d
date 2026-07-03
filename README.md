@@ -1,6 +1,6 @@
 # Hi, I'm Danil
 
-### Backend Developer from Russia
+### Backend Developer
 
 I enjoy building backend systems, working with Linux, reverse engineering, and exploring how software works under the hood.
 
