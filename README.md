@@ -13,7 +13,7 @@ I enjoy building backend systems, working with Linux, reverse engineering, and e
 - x86/x64 Assembly
 - Windows Internals
 
---
+---
 
 ## Contact me
 - **Telegram**: @sxlrd3000
